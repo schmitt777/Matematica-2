@@ -27,4 +27,6 @@ header {
     display: inline-block;
     margin: 0 16px;
     font-size: 24px;
+} body {
+    font-family: "Rubik Scribble", system-ui;
 }
